@@ -14,6 +14,7 @@ public class main {
 
         cadenaCompleta = concatenar(cadena1, cadena2);
         System.out.println(cadenaCompleta);
+        // hola nena
     }
 
     private static String concatenar(String cadena1, String cadena2){
